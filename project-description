@@ -1,0 +1,31 @@
+# Loan Approval Prediction
+
+This project is a machine learning model that predicts whether a loan application will be approved or not based on various applicant details such as income, credit history, employment status, etc.
+
+## Features
+
+- Data preprocessing and cleaning
+- Exploratory Data Analysis (EDA)
+- Model training using classification algorithms (e.g., Logistic Regression, Random Forest, etc.)
+- Model evaluation with accuracy, precision, recall
+- User-friendly prediction interface (if applicable)
+
+## Tech Stack
+
+- Python
+- Jupyter Notebook / Google Colab
+- Pandas, NumPy
+- Scikit-learn
+- Matplotlib, Seaborn
+- (Optional) Flask / Streamlit (for deployment)
+
+## Dataset
+
+The dataset used is from [insert source here, e.g., Kaggle / UCI].  
+It contains information such as:
+
+- Applicant Income
+- Credit History
+- Loan Amount
+- Gender, Marital Status, etc.
+
